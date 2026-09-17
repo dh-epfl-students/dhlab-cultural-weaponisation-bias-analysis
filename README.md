@@ -1,5 +1,9 @@
 # SEMESTER PROJECT: Bias Analysis of cultural heritage manipulation classification of wikipedia edits by LLMs
 
+**Gauthier Nelly**
+
+Supervisors: Camil Hamdane, Hamest Tamrazyan
+
 ## Installation
 
 * **Install packages** with requirements.txt
