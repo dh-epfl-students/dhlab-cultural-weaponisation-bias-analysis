@@ -1,0 +1,7 @@
+# Dependencies for the bias analysis project.
+# Install with:  pip install -r requirements.txt
+
+openai>=1.0.0        # client for the EPFL RCP inference endpoint (OpenAI-compatible API)
+pandas>=2.0.0        # tabular data (one row per Wikipedia edit)
+matplotlib>=3.7.0    # quick plots of label distributions and diff lengths
+tqdm>=4.65.0         # progress bars on long classification runs

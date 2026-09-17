@@ -1,0 +1,15 @@
+# Raw revision dumps: several GB each, they are never committed.
+# The loader in preprocessing.py explains where to get them.
+data/
+
+# Produced by the notebooks and the classification script.
+outputs/
+checkpoints/
+
+# Python / notebook noise
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
