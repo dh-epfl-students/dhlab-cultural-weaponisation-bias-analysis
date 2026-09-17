@@ -33,3 +33,4 @@ NOTEBOOKS (read them in this order):
 - **0-2-classification.ipynb** classifies 10 random Ukrainian edits and saves the results.
 
 RCP: https://portal.rcp.epfl.ch/core/
+Camil's project: https://github.com/dhlab-epfl/cultural-heritage-weaponisation-extraction
