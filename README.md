@@ -31,3 +31,5 @@ FILES:
 NOTEBOOKS (read them in this order):
 - **0-1-exploration.ipynb** loads the data and looks at the edits and their metadata. Calls no model, so it runs without an API key.
 - **0-2-classification.ipynb** classifies 10 random Ukrainian edits and saves the results.
+
+RCP: https://portal.rcp.epfl.ch/core/
