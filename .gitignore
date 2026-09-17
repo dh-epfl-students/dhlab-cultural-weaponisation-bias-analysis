@@ -1,6 +1,6 @@
 # Raw revision dumps: several GB each, they are never committed.
 # The loader in preprocessing.py explains where to get them.
-data/
+
 !data/gold/
 !data/gold/**
 
@@ -15,3 +15,5 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+.github/
